@@ -1,21 +1,19 @@
-## Portfolio
+## Portifólio
 
 ---
 
-### Category Name 1 
+### Ciência de Dados | Aprendizado de Máquina 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Classificação de documentos a partir das suas cores](https://eduardocassimiro.github.io/classificacao-de-documentos-pelas-suas-cores/)
+Projeto de Machine Learning para resolver o desafio de classificação de imagens do programa Mandacaru.dev
+<img src="images/thumb_desafio1.png?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Análise espacial da relação entre notas do Ideb e CVLI](https://eduardocassimiro.github.io/analise-espacial-ideb-cvli/)
+<img src="images/thumb_analise_espacial.png?raw=true"/>
 
 ---
+
 
 ### Category Name 2
 
