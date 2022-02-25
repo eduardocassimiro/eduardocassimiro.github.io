@@ -16,7 +16,7 @@ Projeto de Visualização de Dados para verificar a presença de correlação en
 <img src="images/thumb_analise_espacial.png?raw=true"/>
 
 ---
-[• Clusterização das Escolas Públicas Brasileiras para Análise de Grupos de Desempenho](ttps://eduardocassimiro.github.io/clusterizacao-das-escolas-publicas-brasileiras/)
+[• Clusterização das Escolas Públicas Brasileiras para Análise de Grupos de Desempenho](https://eduardocassimiro.github.io/clusterizacao-das-escolas-publicas-brasileiras/)
 
 Projeto de Ciência de Dados para clusterizar as escolas públicas brasileiras e verificar se existe correlação entre as sua nota do Ideb e as suas caracteristicas.
 <img src="images/thumb_mine_trabfinal.png?raw=true"/>
