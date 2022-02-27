@@ -22,6 +22,12 @@ Projeto de Ciência de Dados para clusterizar as escolas públicas brasileiras e
 <img src="images/thumb_mine_trabfinal.png?raw=true"/>
 
 ---
+[• Relação do consumo de bebidas alcoólicas por estudantes dos cursos de matemática e português de duas escolas secundárias de Portugal com a média das notas](https://eduardocassimiro.github.io/analise-relacao-bedidas-desempenho/)
+
+Trabalho de Análise Exploratória de Dados para averiguar se existe correlação entre o consumo de bebidas alcoólicas e notas baixas, bem como quais as causas e o perfil dos alunos que apresentam esse baixo rendimento na escola.
+<img src="images/thumb_mine_trab1.png?raw=true"/>
+
+---
 
 
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
